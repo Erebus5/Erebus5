@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Erebus5
+- 👀 I’m interested in programming and coding.
+- 🌱 I’m currently learning C and will later move on to C++ and Python.
+- 💞️ I’m looking to collaborate on C projects.
+- 📫 You can reach me at harissalam969@gmail.com.
